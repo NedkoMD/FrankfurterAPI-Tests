@@ -1,0 +1,12 @@
+2023-11-30 18:28:38.480 +02:00 [INF] Test: Get historical rates with future date - Result: False
+2023-11-30 18:28:38.581 +02:00 [INF] Test: Get historical rates with invalid date - Result: False
+2023-11-30 18:28:38.684 +02:00 [INF] Test: Get historical rates with missing date - Result: False
+2023-11-30 18:28:38.784 +02:00 [INF] Test: Get historical rates with valid date - Result: True
+2023-11-30 18:28:38.888 +02:00 [INF] Test: Get historical rates by period where end date is before start date - Result: False
+2023-11-30 18:28:38.991 +02:00 [INF] Test: Get historical rates by period with invalid end date - Result: False
+2023-11-30 18:28:39.090 +02:00 [INF] Test: Get historical rates by period with invalid start date - Result: False
+2023-11-30 18:28:39.229 +02:00 [INF] Test: Get historical rates by period with missing end date - Result: True
+2023-11-30 18:28:39.330 +02:00 [INF] Test: Get historical rates by period with missing start date - Result: False
+2023-11-30 18:28:39.525 +02:00 [INF] Test: Get historical rates by period with valid start and end date - Result: True
+2023-11-30 18:28:39.623 +02:00 [INF] Test: Get historical rates by period to invalid currency - Result: False
+2023-11-30 18:28:39.725 +02:00 [INF] Test: Get historical rates by period to valid currency - Result: True

@@ -1,0 +1,10 @@
+2023-11-30 18:28:39.827 +02:00 [INF] Test: Get latest exchange rate EUR with limit to invalid currencies - Result: False
+2023-11-30 18:28:39.922 +02:00 [INF] Test: Get latest exchange rate EUR with limit to missing currencies - Result: False
+2023-11-30 18:28:40.026 +02:00 [INF] Test: Get latest exchange rate EUR with limit to specific currencies - Result: True
+2023-11-30 18:28:40.127 +02:00 [INF] Test: Get latest exchange rate invalid curency with limit to specific currencies - Result: False
+2023-11-30 18:28:40.222 +02:00 [INF] Test: Get latest exchange rate EUR to other currencies - Result: True
+2023-11-30 18:28:40.321 +02:00 [INF] Test: Get latest exchange rate with invalid amount - Result: False
+2023-11-30 18:28:40.427 +02:00 [INF] Test: Get latest exchange rate with invalid currency - Result: False
+2023-11-30 18:28:40.527 +02:00 [INF] Test: Get latest exchange rate with missing parameters - Result: False
+2023-11-30 18:28:40.631 +02:00 [INF] Test: Get latest exchange rate USD to other currencies - Result: True
+2023-11-30 18:28:40.726 +02:00 [INF] Test: Get latest exchange rate with valid amount - Result: True
